@@ -3,8 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - [Active Directory Home Lab](https://github.com/marcg129/ActiveDirectoryLab/tree/main)
-- [Azure Sentinel (SIEM)](https://github.com/marcg129/LABURL)
-- [Nessus Vulnerability Management](https://github.com/marcg129/LABURL)
+- [Azure Sentinel (SIEM)](https://github.com/marcg129/AzureSentinel/tree/main)
+- [Nessus Vulnerability Management](https://github.com/marcg129/Nessus/tree/main)
 
 <h2>📄 Certifications</h2>
 
